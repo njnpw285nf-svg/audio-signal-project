@@ -1,6 +1,4 @@
-"""6-STARS: phân tích âm thanh, so sánh đặc trưng và lọc nhiễu.
-Bản sửa tách hàm tính toán dùng chung để bảng và đồ thị dùng cùng định nghĩa.
-"""
+
 import io
 import os
 import re
